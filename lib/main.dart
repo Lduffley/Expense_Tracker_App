@@ -6,7 +6,7 @@ import 'package:personalexpenses/widgets/transaction_list.dart';
 import './models/transaction.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-void main() => runApp(MyApp())
+void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
   @override
